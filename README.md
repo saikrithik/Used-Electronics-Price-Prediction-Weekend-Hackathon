@@ -19,4 +19,4 @@ Given are 6 distinguishing factors that can influence the price of a used device
 4. matplotlib and seaborn was used for plotting and analyzing the data
 #### Competition Result
 Rank: 7th on public LB and 4th on private LB\
-[Link](https://www.machinehack.com/course/used-electronics-price-prediction-weekend-hackathon-7/leaderboard)
+[Link to the Leaderboard](https://www.machinehack.com/course/used-electronics-price-prediction-weekend-hackathon-7/leaderboard)
